@@ -1,11 +1,11 @@
 # PgSQL-in-Python---Demo
 
-The Python codes aims to make a demonstartion on folling tasks :
+The Python codes aims to make a demonstartion on following tasks in PgSQL :
 
-Create a relational database containing three tables
+1:Create a relational database containing three tables
 
-Populate the database using the INSERT command
+2:Populate the database using the INSERT command
 
-Create integrity constraints on the tables created
+3:Create integrity constraints on the tables created
 
-Create queries that retrieve information from the database
+4:Create queries that retrieve information from the database
