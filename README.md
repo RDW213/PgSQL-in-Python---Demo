@@ -1,6 +1,6 @@
 # PgSQL-in-Python---Demo
 
-The Python codes aims to make a demonstartion on following tasks in PgSQL :
+The Python code aims to make a demonstration on following tasks in PgSQL :
 
 1:Create a relational database containing three tables
 
