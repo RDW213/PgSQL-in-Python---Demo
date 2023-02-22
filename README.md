@@ -1,8 +1,8 @@
 # PgSQL-in-Python---Demo
 
+The Python codes aims to make a demonstartion on folling tasks :
 
-
-Create a relational database containing at least three tables
+Create a relational database containing three tables
 
 Populate the database using the INSERT command
 
